@@ -20,3 +20,6 @@ A responsive e-commerce website built using  HTML, CSS, and JavaScript, featurin
 - CSS3 (Flexbox & Grid)
 - JavaScript (with [Glide.js](https://glidejs.com/))
 
+Author
+
+Keerthi Muppulakunta
