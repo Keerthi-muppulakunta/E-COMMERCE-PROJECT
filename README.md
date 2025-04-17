@@ -1,11 +1,22 @@
-# E-Commerce Project
+# E-commerce Website
 
+A responsive e-commerce website built using  HTML, CSS, and JavaScript, featuring a product catalog, shopping cart functionality, and a smooth image carousel powered by Glide.js.
 
-Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
+## Live Demo
 
-No framework or library (except glide.js) was used throughout the project.
+[Click here to view the live project](https://commerce-project.netlify.app/)
 
+## Features
 
-You can reach the live link of the project from the link below.
+- Product catalog with images and descriptions
+- Add to Cart / Remove from Cart functionality
+- Dynamic price calculation
+- Responsive design for mobile and desktop
+- Smooth image carousel using Glide.js
 
-Link : https://commerce-project.netlify.app/
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (with [Glide.js](https://glidejs.com/))
+
